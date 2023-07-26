@@ -4,9 +4,9 @@
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
-- 👨‍💻 All of my projects are available at [Github.com](Github.com)
+- 👨‍💻 All of my projects are available at [Github.com](https://github.com/seifedd)
 
-- 📝 I regularly write articles on [Medium](Medium)
+- 📝 I regularly write articles on [Medium](https://medium.com/@seifelmejri)
 
 - 💬 Ask me about **react**
 
