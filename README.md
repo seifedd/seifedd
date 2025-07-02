@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from Tunisia</h3>
+<h3 align="center">A passionate frontend engineer from Tunisia</h3>
 
 - 🔭 I’m currently working on **with Shipt as Engineer**
 
